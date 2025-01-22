@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaidelavin
 - 👀 I’m interested in exploring the intersection of artificial intelligence and computer networks. 
-- 🌱 I’m currently learning advanced machine learning techniques and their applications on intelligent computer networks.
+- 🌱 I’m currently learning web development and machine learning. 
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me -> jaidelavin@proton.me
 
